@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fad23aff-6e1a-46e0-9a1e-dcc2ff013ed4": {
+      "ProjectGuid": "fad23aff-6e1a-46e0-9a1e-dcc2ff013ed4",
+      "DisplayName": "Demo.Web",
+      "ColorIndex": 0
+    },
+    "4746f8a3-d71c-4a3f-8a64-86b141b334d8": {
+      "ProjectGuid": "4746f8a3-d71c-4a3f-8a64-86b141b334d8",
+      "DisplayName": "Demo.API",
+      "ColorIndex": 1
+    },
+    "449c8cbc-0e0d-45c5-8f2a-90ba88494010": {
+      "ProjectGuid": "449c8cbc-0e0d-45c5-8f2a-90ba88494010",
+      "DisplayName": "Demo.DB",
+      "ColorIndex": 2
+    },
+    "6b31c640-37fb-41be-8927-265de09daaa4": {
+      "ProjectGuid": "6b31c640-37fb-41be-8927-265de09daaa4",
+      "DisplayName": "Demo.Model",
+      "ColorIndex": 3
+    },
+    "56d0ea64-bc97-420f-be67-7bbcc84e6b56": {
+      "ProjectGuid": "56d0ea64-bc97-420f-be67-7bbcc84e6b56",
+      "DisplayName": "Demo.Core",
+      "ColorIndex": 4
+    },
+    "cabbd0fe-d1f6-44b9-bf87-10d53d8a67d0": {
+      "ProjectGuid": "cabbd0fe-d1f6-44b9-bf87-10d53d8a67d0",
+      "DisplayName": "Demo.Service",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
