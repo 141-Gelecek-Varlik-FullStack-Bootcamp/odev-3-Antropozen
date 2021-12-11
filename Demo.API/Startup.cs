@@ -1,5 +1,6 @@
 using AutoMapper;
 using Demo.API.Infrastructure;
+using Demo.Service.Product;
 using Demo.Service.User;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -33,6 +34,7 @@ namespace Demo.API
             IMapper mapper = _mappingProfile.CreateMapper();
             services.AddSingleton(mapper);
             services.AddTransient<IUserService, UserService>();
+            services.AddTransient<IProductService, ProductService>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
