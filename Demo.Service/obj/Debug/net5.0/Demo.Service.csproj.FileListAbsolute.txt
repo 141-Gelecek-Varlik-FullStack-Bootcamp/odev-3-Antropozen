@@ -10,3 +10,8 @@ C:\Users\enesg\Desktop\Demo\Demo.Service\obj\Debug\net5.0\Demo.Service.csproj.Co
 C:\Users\enesg\Desktop\Demo\Demo.Service\obj\Debug\net5.0\Demo.Service.dll
 C:\Users\enesg\Desktop\Demo\Demo.Service\obj\Debug\net5.0\ref\Demo.Service.dll
 C:\Users\enesg\Desktop\Demo\Demo.Service\obj\Debug\net5.0\Demo.Service.pdb
+C:\Users\enesg\Desktop\Demo\Demo.Service\bin\Debug\net5.0\Demo.DB.dll
+C:\Users\enesg\Desktop\Demo\Demo.Service\bin\Debug\net5.0\Demo.DB.pdb
+C:\Users\enesg\Desktop\Demo\Demo.Service\obj\Debug\net5.0\Demo.Service.csproj.CopyComplete
+C:\Users\enesg\Desktop\Demo\Demo.Service\bin\Debug\net5.0\Demo.Model.dll
+C:\Users\enesg\Desktop\Demo\Demo.Service\bin\Debug\net5.0\Demo.Model.pdb

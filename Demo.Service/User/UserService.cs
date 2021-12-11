@@ -1,10 +1,17 @@
-﻿using Demo.DB.Entities.DataContext;
+﻿using AutoMapper;
+using Demo.DB.Entities.DataContext;
+using Demo.Model;
 using System.Linq;
 
 namespace Demo.Service.User
 {
-    public class UserService
+    public class UserService : IUserService 
     {
+        private readonly IMapper mapper;
+        public UserService(IMapper _mapper)
+        {
+            mapper = _mapper;
+        }
         public bool Login(string userName,string userPassword)
         {
             bool result = false;
@@ -16,14 +23,19 @@ namespace Demo.Service.User
             return result;
         }
 
-        public void Insert()
+
+        public General<Model.User.User>Insert(Demo.Model.User.User newUser)
         {
-            var newUser = new Demo.DB.Entities.User();
+            var result = new General<Model.User.User>(){IsSuccess = false };
+            var model = mapper.Map<Demo.DB.Entities.User>(newUser);
             using (var srv = new DemoContext())
             {
-                srv.User.Add(newUser);
+                srv.User.Add(model);
                 srv.SaveChanges();
+                result.Entity = newUser;
+                result.IsSuccess = true;
             }
+            return result;
         }
     }
 }

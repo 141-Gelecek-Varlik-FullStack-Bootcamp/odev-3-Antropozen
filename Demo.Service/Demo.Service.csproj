@@ -6,11 +6,16 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Demo.DB\Demo.DB.csproj" />
+    <ProjectReference Include="..\Demo.Model\Demo.Model.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Category\" />
     <Folder Include="Product\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
   </ItemGroup>
 
 </Project>
