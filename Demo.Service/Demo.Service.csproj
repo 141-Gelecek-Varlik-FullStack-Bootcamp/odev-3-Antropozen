@@ -4,4 +4,13 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.DB\Demo.DB.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Category\" />
+    <Folder Include="Product\" />
+  </ItemGroup>
+
 </Project>

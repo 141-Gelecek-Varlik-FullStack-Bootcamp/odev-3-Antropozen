@@ -75,16 +75,6 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
-      },
-      "Demo.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/Demo.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Demo.Core.dll": {}
-        }
       }
     }
   },
@@ -195,16 +185,10 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
-    },
-    "Demo.Core/1.0.0": {
-      "type": "project",
-      "path": "../Demo.Core/Demo.Core.csproj",
-      "msbuildProject": "../Demo.Core/Demo.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Demo.Core >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -234,11 +218,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\enesg\\Desktop\\Demo\\Demo.Core\\Demo.Core.csproj": {
-              "projectPath": "C:\\Users\\enesg\\Desktop\\Demo\\Demo.Core\\Demo.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

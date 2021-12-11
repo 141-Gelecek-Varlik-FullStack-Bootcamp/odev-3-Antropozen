@@ -1,0 +1,15 @@
+C:\Users\enesg\Desktop\Demo\Demo.DB\bin\Debug\net5.0\Demo.DB.deps.json
+C:\Users\enesg\Desktop\Demo\Demo.DB\bin\Debug\net5.0\Demo.DB.runtimeconfig.json
+C:\Users\enesg\Desktop\Demo\Demo.DB\bin\Debug\net5.0\Demo.DB.runtimeconfig.dev.json
+C:\Users\enesg\Desktop\Demo\Demo.DB\bin\Debug\net5.0\Demo.DB.dll
+C:\Users\enesg\Desktop\Demo\Demo.DB\bin\Debug\net5.0\ref\Demo.DB.dll
+C:\Users\enesg\Desktop\Demo\Demo.DB\bin\Debug\net5.0\Demo.DB.pdb
+C:\Users\enesg\Desktop\Demo\Demo.DB\obj\Debug\net5.0\Demo.DB.csproj.AssemblyReference.cache
+C:\Users\enesg\Desktop\Demo\Demo.DB\obj\Debug\net5.0\Demo.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesg\Desktop\Demo\Demo.DB\obj\Debug\net5.0\Demo.DB.AssemblyInfoInputs.cache
+C:\Users\enesg\Desktop\Demo\Demo.DB\obj\Debug\net5.0\Demo.DB.AssemblyInfo.cs
+C:\Users\enesg\Desktop\Demo\Demo.DB\obj\Debug\net5.0\Demo.DB.csproj.CoreCompileInputs.cache
+C:\Users\enesg\Desktop\Demo\Demo.DB\obj\Debug\net5.0\Demo.DB.dll
+C:\Users\enesg\Desktop\Demo\Demo.DB\obj\Debug\net5.0\ref\Demo.DB.dll
+C:\Users\enesg\Desktop\Demo\Demo.DB\obj\Debug\net5.0\Demo.DB.pdb
+C:\Users\enesg\Desktop\Demo\Demo.DB\obj\Debug\net5.0\Demo.DB.genruntimeconfig.cache
